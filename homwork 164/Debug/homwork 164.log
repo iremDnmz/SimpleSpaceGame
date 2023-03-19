@@ -1,0 +1,3 @@
+﻿  homework.cpp
+C:\Users\user\source\repos\homwork 164\homwork 164\homework.cpp(532,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  homwork 164.vcxproj -> C:\Users\user\source\repos\homwork 164\Debug\homwork 164.exe
