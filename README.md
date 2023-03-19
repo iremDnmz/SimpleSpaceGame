@@ -4,3 +4,4 @@ There is a UFO object which is not visible on the initial screen. When the user 
 
 
 
+![Screenshot 2023-03-19 232824](https://user-images.githubusercontent.com/126871722/226207106-2d30e374-0d8d-40de-9056-fd5b3ea85cc9.png)
